@@ -6,8 +6,6 @@ function updateObjectWithKeyAndValue(object, key, value){
   return (object)
 }
   
-var recipes = { 
- prop: 1,
-}  
+ 
   
 
